@@ -15,7 +15,6 @@
 // =============================================================
 
 
-// MARK: - =================== STARTER CODE ===================
 // MARK: - Do not modify anything in this section
 
 typealias Reading = (sensor: String, value: Int)
